@@ -1,7 +1,7 @@
--- Nama : Mufrihzahy Jordan Aslam
--- NIM 	: 24241167
+-- Nama : Rifdan
+-- NIM 	: 24241107
 -- Kelas : PTI E
--- Modul : 2
+-- Modul : 1
 
 -- membuat database
 CREATE DATABASE kelas_e_mart;
